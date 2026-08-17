@@ -54,5 +54,3 @@ Analyzed warehouse utilization, throughput, productivity, and developed a consol
 
 The project provides a consolidated view of supply chain performance across inventory, delivery, suppliers, transportation, and warehouse operations.
 The dashboards enable users to monitor KPIs, identify performance issues, compare operational areas, and support data-driven supply chain decisions.
-    └── Supply_Chain_Visibility_Optimization.pptx
-```
